@@ -28,7 +28,7 @@ class ToDoTableViewController: UITableViewController {
         dog.name = "Walk the dog"
         //important is set to false by default
         
-        return [swift,dog]
+        return [swift, dog]
     }
     
 
